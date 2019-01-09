@@ -1,0 +1,9 @@
+util/CategoryDetailPageConstants.class
+page/LoginPage.class
+util/CategoriesPageConstants.class
+page/BasketPage.class
+util/LoginPageConstants.class
+base/BasePage.class
+page/CategoryDetailPage.class
+util/BasketPageConstants.class
+page/CategoriesPage.class
